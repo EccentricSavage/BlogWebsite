@@ -1,6 +1,6 @@
 # About the Project
 
-This is a a blog website with posts, register/login functionality as well as comments. All backend and some frontend made with python, using a SQL database.
+This is a a blog website with posts, register/login functionality as well as comments. All back end and some front end made with python, using a SQL database.
 
 # Built With
 
