@@ -10,14 +10,14 @@ This is a a blog website with posts, register/login functionality as well as com
 
 ## Prerequisites
 
-All required python libraries required are contained in
+All required python libraries required are contained in:
 ```
 requirements.txt
 ```
 
 ## Installation
 
-Download all files and run 
+Download all files and run:
 ```
 main.py
 ```
