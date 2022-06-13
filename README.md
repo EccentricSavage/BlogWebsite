@@ -5,6 +5,9 @@ This is a a blog website with posts, register/login functionality as well as com
 # Built With
 
 - Python
+- HTML
+- CSS
+- JavaScript
 
 # Getting Started
 
